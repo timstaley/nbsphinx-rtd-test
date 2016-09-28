@@ -1,5 +1,5 @@
 sphinx>=1.4
 sphinx_rtd_theme
 jupyter
-nbsphinx
 matplotlib
+-e git+git@github.com:spatialaudio/nbsphinx.git#egg=nbsphinx
