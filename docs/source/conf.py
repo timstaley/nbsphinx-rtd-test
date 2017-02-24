@@ -4,7 +4,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'nbsphinx',
-    'IPython.sphinxext.ipython_console_highlighting',
+    # 'IPython.sphinxext.ipython_console_highlighting',
 ]
 
 exclude_patterns = ['_build', '**.ipynb_checkpoints']
